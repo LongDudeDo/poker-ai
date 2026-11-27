@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data (download it yourself, see 01-ml-foundations/README.md)
+data/
+*.data
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trained models and outputs
+*.pkl
+*.pt
+outputs/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
